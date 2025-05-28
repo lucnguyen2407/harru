@@ -16,7 +16,7 @@ export default function Skills() {
     {
       icon: <Code className="h-10 w-10" />,
       title: "JavaScript Frameworks",
-      description: "React.js, Next.js, Vue.js",
+      description: "React.js, Next.js",
     },
     {
       icon: <Server className="h-10 w-10" />,

@@ -32,7 +32,7 @@ A modern and responsive portfolio website built with Next.js, React, and Tailwin
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/lucnguyen2407/harru.git
 ```
 
 2. Install dependencies

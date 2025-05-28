@@ -12,8 +12,7 @@ export default function Hero() {
               Harru
             </h1>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-              Front-End Developer specializing in React.js, Next.js and Tailwind
-              CSS
+              I'm Front-End Developer and Gamer sometimes!
             </p>
           </div>
           <div className="flex flex-col gap-2 min-[400px]:flex-row">

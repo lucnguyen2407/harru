@@ -10,7 +10,7 @@ export default function About() {
           <div className="flex justify-center">
             <div className="relative w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] md:w-[380px] md:h-[380px] overflow-hidden rounded-full border-4 border-gray-200 dark:border-gray-700">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/me.jpg?height=400&width=400"
                 alt="Profile picture"
                 fill
                 className="object-cover"
@@ -22,9 +22,8 @@ export default function About() {
               About Me
             </h2>
             <p className="text-gray-500 dark:text-gray-400 md:text-lg">
-              Hello! I'm Nguyen Tien Luc , a Front-End Developer with over 3
-              years of experience in building and designing modern web
-              applications.
+              Hello! I'm Nguyen Tien Luc , a Front-End Developer with 3 years of
+              experience in building and designing modern web applications.
             </p>
             <p className="text-gray-500 dark:text-gray-400 md:text-lg">
               I'm passionate about creating excellent user experiences and have

@@ -18,7 +18,7 @@ export default function Projects() {
       title: "E-commerce Website",
       description:
         "Full-featured e-commerce website with shopping cart, payment processing, and order management.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/coming.jpg?height=400&width=600",
       tags: ["React", "Next.js", "Tailwind CSS", "Stripe"],
       demoLink: "#",
       githubLink: "#",
@@ -27,7 +27,7 @@ export default function Projects() {
       title: "Task Management App",
       description:
         "Task management application with drag-and-drop functionality, categorization, and notifications.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/coming.jpg?height=400&width=600",
       tags: ["React", "TypeScript", "Redux", "Firebase"],
       demoLink: "#",
       githubLink: "#",
@@ -36,7 +36,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "Personal portfolio website with modern design and theme switching capability.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/mylogo.jpg?height=400&width=600",
       tags: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
       demoLink: "#",
       githubLink: "#",

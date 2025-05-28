@@ -20,8 +20,8 @@ export default function Skills() {
     },
     {
       icon: <Server className="h-10 w-10" />,
-      title: "Back-End Integration",
-      description: "RESTful APIs, GraphQL, Firebase",
+      title: "Something comming soon",
+      description: "Something comming soon",
     },
     {
       icon: <Globe className="h-10 w-10" />,
@@ -30,8 +30,8 @@ export default function Skills() {
     },
     {
       icon: <Figma className="h-10 w-10" />,
-      title: "Design Tools",
-      description: "Figma, Adobe XD, Sketch",
+      title: "Something comming soon",
+      description: "Something comming soon",
     },
   ];
 

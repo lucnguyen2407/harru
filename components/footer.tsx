@@ -35,20 +35,20 @@ export default function Footer() {
           </div>
           <div className="flex items-center gap-4">
             <Link
-              href="https://github.com"
+              href="https://github.com/lucnguyen2407"
               target="_blank"
               rel="noopener noreferrer">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/nguyen-luc-98bb391a1/"
               target="_blank"
               rel="noopener noreferrer">
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
             </Link>
-            <Link href="mailto:example@email.com">
+            <Link href="mailto:lucnguyen2407@gmail.com">
               <Mail className="h-5 w-5" />
               <span className="sr-only">Email</span>
             </Link>

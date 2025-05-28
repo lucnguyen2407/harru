@@ -67,11 +67,11 @@ export default function Contact() {
             <CardContent className="space-y-4">
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-primary" />
-                <span>example@email.com</span>
+                <span>lucnguyen2407@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary" />
-                <span>+84 123 456 789</span>
+                <span>+84 327 522 206</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-primary" />
@@ -80,7 +80,7 @@ export default function Contact() {
               <div className="flex items-center space-x-3 pt-4">
                 <Button variant="outline" size="icon" asChild>
                   <a
-                    href="https://github.com"
+                    href="https://github.com/lucnguyen2407"
                     target="_blank"
                     rel="noopener noreferrer">
                     <Github className="h-5 w-5" />
@@ -89,7 +89,7 @@ export default function Contact() {
                 </Button>
                 <Button variant="outline" size="icon" asChild>
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/nguyen-luc-98bb391a1/"
                     target="_blank"
                     rel="noopener noreferrer">
                     <Linkedin className="h-5 w-5" />
@@ -97,7 +97,7 @@ export default function Contact() {
                   </a>
                 </Button>
                 <Button variant="outline" size="icon" asChild>
-                  <a href="mailto:example@email.com">
+                  <a href="mailto:lucnguyen2407@gmail.com">
                     <Mail className="h-5 w-5" />
                     <span className="sr-only">Email</span>
                   </a>

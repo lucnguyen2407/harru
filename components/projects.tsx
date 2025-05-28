@@ -39,7 +39,7 @@ export default function Projects() {
       image: "/mylogo.jpg?height=400&width=600",
       tags: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
       demoLink: "#",
-      githubLink: "#",
+      githubLink: "https://github.com/lucnguyen2407/harru",
     },
   ];
 

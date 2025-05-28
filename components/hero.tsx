@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="flex flex-col items-center gap-4 text-center">
           <div className="space-y-2">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 dark:from-gray-100 dark:to-gray-400">
-              John Doe
+              Harru
             </h1>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               Front-End Developer specializing in React.js, Next.js and Tailwind

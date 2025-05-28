@@ -22,8 +22,9 @@ export default function About() {
               About Me
             </h2>
             <p className="text-gray-500 dark:text-gray-400 md:text-lg">
-              Hello! I'm John Doe, a Front-End Developer with over 3 years of
-              experience in building and designing modern web applications.
+              Hello! I'm Nguyen Tien Luc , a Front-End Developer with over 3
+              years of experience in building and designing modern web
+              applications.
             </p>
             <p className="text-gray-500 dark:text-gray-400 md:text-lg">
               I'm passionate about creating excellent user experiences and have
@@ -32,9 +33,8 @@ export default function About() {
               apply best practices in web development.
             </p>
             <p className="text-gray-500 dark:text-gray-400 md:text-lg">
-              Outside of work, I enjoy reading technology books, participating
-              in programming communities, and contributing to open-source
-              projects.
+              Outside of work, I enjoy reading books, going to the gym, and
+              playing games with my friends.
             </p>
           </div>
         </div>

@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
           <div className="flex flex-col items-center gap-4 md:flex-row md:gap-6">
             <Link href="/" className="flex items-center gap-2">
-              <span className="text-lg font-bold">DevPortfolio</span>
+              <span className="text-lg font-bold">Harru</span>
             </Link>
             <nav className="flex gap-4 md:gap-6">
               <Link
@@ -54,7 +54,7 @@ export default function Footer() {
             </Link>
           </div>
           <p className="text-xs text-gray-500 dark:text-gray-400">
-            &copy; {new Date().getFullYear()} John Doe. All rights reserved.
+            &copy; {new Date().getFullYear()} Harru. All rights reserved.
           </p>
         </div>
       </div>

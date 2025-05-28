@@ -38,7 +38,7 @@ export default function Projects() {
         "Personal portfolio website with modern design and theme switching capability.",
       image: "/mylogo.jpg?height=400&width=600",
       tags: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-      demoLink: "#",
+      demoLink: "https://harru-sigma.vercel.app/",
       githubLink: "https://github.com/lucnguyen2407/harru",
     },
   ];

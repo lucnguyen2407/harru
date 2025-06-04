@@ -28,9 +28,9 @@ export default function Projects() {
       description:
         "Task management application with drag-and-drop functionality, categorization, and notifications.",
       image: "/coming.jpg?height=400&width=600",
-      tags: ["React", "TypeScript", "Redux", "Firebase"],
+      tags: ["Next.js", "TypeScript", "Redux", "Tailwind CSS"],
       demoLink: "#",
-      githubLink: "#",
+      githubLink: "https://github.com/lucnguyen2407/todo-list-advanced",
     },
     {
       title: "Portfolio Website",
